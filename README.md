@@ -1,2 +1,2 @@
 # CP1404Practicals
-This is for CO1404 Week Pracitals
+This is for CP1404 Week Pracitals
