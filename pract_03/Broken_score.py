@@ -1,3 +1,7 @@
+"""
+CP1404 - Practical
+Broken score
+"""
 def main():
     score = float(input("Please enter your score: "))
     result = determine_score(score)

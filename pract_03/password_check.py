@@ -1,3 +1,7 @@
+"""
+CP1404 - Practical
+Password check
+"""
 def main():
     password = get_password()
     get_length = len(password)

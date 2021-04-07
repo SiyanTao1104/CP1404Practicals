@@ -1,3 +1,7 @@
+"""
+CP1404 - Practical
+Temperature convert
+"""
 def main():
     in_file = open("temps_input.txt","r")
     out_file = open("temps_output.txt","w")

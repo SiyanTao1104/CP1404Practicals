@@ -2,8 +2,6 @@
 CP1404 - Practical
 Temperature conversions
 """
-
-
 def main():
     menu ="""C - Convert Celsius to Fahrenheit\nF - Convert Fahrenheit to Celsius\nQ - Quit"""
     print(menu)

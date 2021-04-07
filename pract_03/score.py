@@ -1,3 +1,7 @@
+"""
+CP1404 - Practical
+Determine score
+"""
 import random
 lowest_score = 0
 largest_score = 100
