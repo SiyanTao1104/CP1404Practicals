@@ -1,3 +1,7 @@
+"""CP1404/CP5632 Siyan Tao
+Practical -
+Guitar example.
+"""
 from pract_06.guitar import Guitar
 
 

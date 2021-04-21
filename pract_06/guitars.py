@@ -1,5 +1,5 @@
 """CP1404/CP5632 Siyan Tao
-Practical -
+week 06 Practical
 Playing the guitars
 """
 from pract_06.guitar import Guitar
