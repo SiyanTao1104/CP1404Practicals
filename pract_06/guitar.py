@@ -1,4 +1,4 @@
-"""CP1404/CP5632 Siyan Tao
+"""CP1404 Siyan Tao
 Practical -
 Guitar example.
 """

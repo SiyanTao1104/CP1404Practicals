@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 Practical - Siyan Tao
+CP1404 Practical - Siyan Tao
 week 06 prac
 Car class example.
 """

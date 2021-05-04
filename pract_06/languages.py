@@ -1,4 +1,5 @@
-"""CP1404/CP5632
+"""
+CP1404
 Practical -
 programming language example.
 """
