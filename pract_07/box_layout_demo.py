@@ -1,3 +1,8 @@
+"""
+CP1404 week7 Practical
+Siyan Tao
+box layout demo
+"""
 from kivy.app import App
 from kivy.lang import Builder
 

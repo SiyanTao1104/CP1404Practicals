@@ -1,3 +1,7 @@
+"""
+CP1404 Week 7 practical
+Siyan Tao
+"""
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.core.window import Window
