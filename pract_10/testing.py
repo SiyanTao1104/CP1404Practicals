@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 Practical
+CP1404 Practical Siyan Tao
 Testing demo using assert and doctest
 """
 

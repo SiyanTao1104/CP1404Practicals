@@ -1,3 +1,8 @@
+"""
+CP1404 Practical Siyan Tao
+Testing demo using wiki method
+"""
+
 import wikipedia
 def main():
     while True:
